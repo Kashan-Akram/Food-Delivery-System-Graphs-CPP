@@ -1,7 +1,7 @@
 # Food-Delivery-System-Graphs-CPP
 
 Created a dataset of restaurants and their food items along with the distance 
-from the selected destination, and created a graph with nodes as all the 
+from the selected destination, and created a graph using hashmaps with nodes as all the 
 restaurants and the locations from the data set with weighted edges the 
 distance between the two nodes.
 Using greedy paradigm and Dijkstra algorithm the shortest path was calculated 
